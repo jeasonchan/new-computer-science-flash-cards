@@ -1,1 +1,4 @@
-const express=require()
+import * as Express from "express";
+import newServer = require("express");
+
+let sever: Express.Express = newServer();
