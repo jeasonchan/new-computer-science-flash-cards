@@ -1,24 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99497526-3be1-4255-9e09-d5e721466845" name="Default Changelist" comment="" />
+    <list default="true" id="99497526-3be1-4255-9e09-d5e721466845" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeason/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeason/controllor/TestConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1X1pse5NyJonDUatZS1KEWzsBUi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sprintboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jeason.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jeason.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -42,14 +92,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580223663524</updated>
-      <workItem from="1580223666795" duration="4000" />
+      <workItem from="1580223666795" duration="2446000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="248" y="205" key="SettingsEditor" timestamp="1580223805901">
+    <state x="123" y="217" key="#Project_Structure" timestamp="1580225166555">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="248" y="205" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1580223805901" />
+    <state x="123" y="217" key="#Project_Structure/0.30.1920.1050@0.30.1920.1050" timestamp="1580225166555" />
+    <state width="1017" height="285" key="GridCell.Tab.0.bottom" timestamp="1580226122784">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1017" height="285" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1580226122784" />
+    <state width="1017" height="285" key="GridCell.Tab.0.center" timestamp="1580226122783">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1017" height="285" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1580226122783" />
+    <state width="1017" height="285" key="GridCell.Tab.0.left" timestamp="1580226122783">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1017" height="285" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1580226122783" />
+    <state width="1017" height="285" key="GridCell.Tab.0.right" timestamp="1580226122784">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1017" height="285" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1580226122784" />
+    <state width="1017" height="285" key="GridCell.Tab.1.bottom" timestamp="1580226122785">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1017" height="285" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1580226122785" />
+    <state width="1017" height="285" key="GridCell.Tab.1.center" timestamp="1580226122784">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1017" height="285" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1580226122784" />
+    <state width="1017" height="285" key="GridCell.Tab.1.left" timestamp="1580226122784">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1017" height="285" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1580226122784" />
+    <state width="1017" height="285" key="GridCell.Tab.1.right" timestamp="1580226122784">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1017" height="285" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1580226122784" />
+    <state x="248" y="205" key="SettingsEditor" timestamp="1580224072512">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="248" y="205" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1580224072512" />
   </component>
 </project>
