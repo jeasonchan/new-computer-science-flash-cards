@@ -14,8 +14,18 @@
         <version>1.5.9.RELEASE</version>
     </parent>
 
+    <build>
+        <plugins>
+            <plugin>
+                <!--导入后，可直接使用lifecycle的package命令进行打包-->
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
     <dependencies>
-        <!--        为什么还要单独再引入依赖呢？
+        <!--为什么还要单独再引入依赖呢？
         因为，parent中的依赖是写在dependenciesmanagent中的，，子工程可不写版本-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
