@@ -29,6 +29,7 @@
         因为，parent中的依赖是写在dependenciesmanagent中的，，子工程可不写版本-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
+<!--            场景启动器starters，不同的场景可以导入不同的启动器，具体版本由父类进行约束-->
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
     </dependencies>
