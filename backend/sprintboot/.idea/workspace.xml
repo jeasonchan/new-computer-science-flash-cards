@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99497526-3be1-4255-9e09-d5e721466845" name="Default Changelist" comment="" />
+    <list default="true" id="99497526-3be1-4255-9e09-d5e721466845" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +98,7 @@
       <updated>1580223663524</updated>
       <workItem from="1580223666795" duration="3186000" />
       <workItem from="1580305944077" duration="6190000" />
-      <workItem from="1580542428869" duration="4125000" />
+      <workItem from="1580542428869" duration="5780000" />
     </task>
     <servers />
   </component>
@@ -146,9 +150,9 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="248" y="205" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1580224072512" />
-    <state x="12" y="172" width="1197" height="610" key="new project wizard" timestamp="1580547555171">
+    <state x="12" y="172" width="1197" height="610" key="new project wizard" timestamp="1580567137484">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="12" y="172" width="1197" height="610" key="new project wizard/0.30.1920.1050@0.30.1920.1050" timestamp="1580547555171" />
+    <state x="12" y="172" width="1197" height="610" key="new project wizard/0.30.1920.1050@0.30.1920.1050" timestamp="1580567137484" />
   </component>
 </project>
