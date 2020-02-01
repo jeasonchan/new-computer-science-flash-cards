@@ -1,0 +1,47 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.jeason.bean.Person",
+      "name": "person",
+      "type": "com.jeason.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.jeason.bean.Person",
+      "name": "person.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.jeason.bean.Person",
+      "name": "person.birthday",
+      "type": "java.util.Date"
+    },
+    {
+      "sourceType": "com.jeason.bean.Person",
+      "name": "person.is-boss",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.jeason.bean.Person",
+      "name": "person.last-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.jeason.bean.Person",
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>"
+    },
+    {
+      "sourceType": "com.jeason.bean.Person",
+      "name": "person.object-list",
+      "type": "java.util.List<java.lang.Object>"
+    },
+    {
+      "sourceType": "com.jeason.bean.Person",
+      "name": "person.pet-dog",
+      "type": "com.jeason.bean.Dog"
+    }
+  ]
+}

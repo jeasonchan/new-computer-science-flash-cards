@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99497526-3be1-4255-9e09-d5e721466845" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeason/bean/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeason/bean/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jeason/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jeason/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -46,13 +50,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Blog" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.jeason" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jeason.bean" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -85,6 +102,7 @@
         </serviceView>
       </list>
     </option>
+    <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -98,7 +116,7 @@
       <updated>1580223663524</updated>
       <workItem from="1580223666795" duration="3186000" />
       <workItem from="1580305944077" duration="6190000" />
-      <workItem from="1580542428869" duration="5780000" />
+      <workItem from="1580542428869" duration="8564000" />
     </task>
     <servers />
   </component>
@@ -110,6 +128,10 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="123" y="217" key="#Project_Structure/0.30.1920.1050@0.30.1920.1050" timestamp="1580225166555" />
+    <state x="364" y="268" key="#com.intellij.ide.util.MemberChooser" timestamp="1580572656720">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="364" y="268" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1580572656720" />
     <state x="332" y="313" key="FileChooserDialogImpl" timestamp="1580547513650">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -146,10 +168,14 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state width="1017" height="285" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1580226399860" />
-    <state x="248" y="205" key="SettingsEditor" timestamp="1580224072512">
+    <state x="248" y="205" key="SettingsEditor" timestamp="1580573274946">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="248" y="205" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1580224072512" />
+    <state x="248" y="205" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1580573274946" />
+    <state x="330" y="261" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580574309278">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="330" y="261" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1580574309278" />
     <state x="12" y="172" width="1197" height="610" key="new project wizard" timestamp="1580567137484">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
