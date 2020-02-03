@@ -18,8 +18,13 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController  //直接用于代替上面的注解
 public class TestConnection {
+
+    @Autowired
+    Person person;
+
     @RequestMapping(value = "/test1", method = RequestMethod.GET)
     public String returnConnection() {
+        System.out.println(person);
         return "connectoin success!";
     }
 

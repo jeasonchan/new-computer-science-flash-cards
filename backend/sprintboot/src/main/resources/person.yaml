@@ -1,0 +1,18 @@
+person:
+  lastName: jeason_chan
+  age: 16
+  isBoss: true
+  birthday: 2017/12/12
+  objectList:
+    - 123
+    - hahahaha
+  maps:
+    key1: value1
+    key2: value2
+  petDog:
+    name: sb
+    age: 666
+
+
+
+
