@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99497526-3be1-4255-9e09-d5e721466845" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeason/conf/MyAppConf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,7 @@
       <workItem from="1580305944077" duration="6190000" />
       <workItem from="1580542428869" duration="9545000" />
       <workItem from="1580577644877" duration="764000" />
-      <workItem from="1580705593707" duration="3190000" />
+      <workItem from="1580705593707" duration="4957000" />
     </task>
     <servers />
   </component>

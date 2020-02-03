@@ -1,3 +1,8 @@
+spring:
+  profiles:
+    active: a
+
+---
 person:
   lastName: jeason
   age: 16
@@ -13,6 +18,36 @@ person:
     name: sb
     age: 666
 
+admin:
+  lasNname: ${person.lastName}
+  fullNAme: ${person.lastName}chan
+  age: ${random.int}
+  address: ${person.address:default}
 
+spring:
+  profiles: a
 
+---
+person:
+  lastName: jeason
+  age: 16
+  isBoss: true
+  birthday: 2017/12/12
+  objectList:
+    - 123
+    - hahahaha
+  maps:
+    key1: value1
+    key2: value2
+  petDog:
+    name: sb
+    age: 666
 
+admin:
+  lasNname: ${person.lastName}
+  fullNAme: ${person.lastName}chan
+  age: ${random.int}
+  address: ${person.address:default}
+
+spring:
+  profiles: b
